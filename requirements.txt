@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+scikit-learn
+kaggle
+requests
+tabulate
+future
+h2o
